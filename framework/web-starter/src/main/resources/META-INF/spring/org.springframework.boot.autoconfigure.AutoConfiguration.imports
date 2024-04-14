@@ -1,0 +1,2 @@
+com.capgemini.swagger.SwaggerAutoConfiguration
+com.capgemini.web.config.WebAutoConfiguration
